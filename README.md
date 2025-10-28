@@ -1,16 +1,37 @@
-## Hi there 👋
+<h1 align="center">🙌 Hi ! I'm Maxime RENAULT</h1>
+<h3 align="center">Welcome to my Data journey 🌅</h3>
 
-<!--
-**qxzjy/qxzjy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://www.linkedin.com/in/maxime-renault-qxzjy" target="_blank">LinkedIn</a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+
+### MLOps
+- 🏠 **[Est'Immo](https://github.com/qxzjy/housing-prices)** : A full-stack MLOps system for real estate valuation, including model training, data drift detection, prediction APIs, auto-testing, Apache Airflow orchestration, auto-retraining and Cloud Computing (EC2).
+  > 🚀 **[Live App here](https://qxzjy-streamlit-housing-prices.hf.space/)**
+- 🥷 **[Automatic Fraud Detection](https://github.com/qxzjy/automatic-fraud-detection)** : A comprehensive Apache Airflow ETL pipeline for credit card transactions data and fraudulent payment prediction.
+  > 🚀 **[Live App here](https://qxzjy-streamlit-fraud-detection.hf.space/)**
+- 🏛️ **[Stripe Data Architecture](https://github.com/qxzjy/stripe-architecture)** : Design of a comprehensive data architecture integrating transactional (OLTP), analytical (OLAP), and unstructured and semi-structured (NoSQL) systems, as well as an MLOps pipeline.
+
+
+### Machine Learning
+- 🏯 **[Anime recommendation engine](https://github.com/qxzjy/anime-recommendation-engine)** : A anime recommendation engine powered by Streamlit and using various NLP techniques and technologies (collaborative filtering, embedding, sentiment analysis, LLM).
+  > 🚀 **[Live App here](https://qxzjy-streamlit-anime-recommandation-engine.hf.space/)**
+
+
+### Data Analysis
+- 🏠 **[Tinder Speed Dating Analysis](https://github.com/qxzjy/tinder-analysis)** : Analysis of data from a speed dating experiment to understand what motivates people to take an interest in each other and meet up for a second date.
+
+---
+
+⚠️👷🏼‍♂️🏗️ Under construction 🏗️👷🏼‍♂️⚠️
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=qxzjy&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark&hide_progress=true" alt="qxzjy" />
+  <img src="https://github-readme-stats.vercel.app/api?username=qxzjy&show_icons=true&locale=en&theme=vision-friendly-dark&rank_icon=github" alt="qxzjy" />
+</p>
