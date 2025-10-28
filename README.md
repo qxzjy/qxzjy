@@ -24,6 +24,8 @@
 
 ### Data Analysis
 - 🏠 **[Tinder Speed Dating Analysis](https://github.com/qxzjy/tinder-analysis)** : Analysis of data from a speed dating experiment to understand what motivates people to take an interest in each other and meet up for a second date.
+- 🚗 **[Getaround Delay Analysis](https://github.com/qxzjy/getaround-analysis)** : Analysis of car rental delay data and prediction of daily rental prices
+  > 🚀 **[Live App here](https://qxzjy-get-around-streamlit.hf.space/)**
 
 ---
 
