@@ -29,10 +29,6 @@
 
 ---
 
-⚠️👷🏼‍♂️🏗️ Under construction 🏗️👷🏼‍♂️⚠️
-
----
-
 ### 🛠️ Languages & Tools
 
 <p align="left">
@@ -56,7 +52,7 @@
 
 - 👨🏼‍💻 IT project manager for 5 years, now focusing on **data science and engineering**.
 - 🏃🏼‍➡️ When I'm not in front of a computer, you might find me **trail running** or **bouldering**.
-- 👨🏼‍🍳 I cook as much on **VSCode** as I do in my **kitchen**. 
+- 👨🏼‍🍳 I cook as much on **kitchen** as I do in my **VSCode**. 
 
 ---
 
