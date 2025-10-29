@@ -33,6 +33,33 @@
 
 ---
 
+### 🛠️ Languages & Tools
+
+<p align="left">
+  <a href="https://fr.wikipedia.org/wiki/Bourne-Again_shell" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/shell-light.svg" alt="bash" width="40" height="40"/></a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a>
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/></a>
+  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" alt="fastapi" width="40" height="40"/></a>
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1985px-Postgresql_elephant.svg.png" alt="postgresql" width="40" height="40"/></a>
+  <a href="https://spark.apache.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" alt="pyspark" width="40" height="40"/></a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
+  <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/apache-airflow.svg" alt="airflow" width="40" height="40"/></a>
+  <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/></a>
+  <a href="https://mlflow.org/" target="_blank" rel="noreferrer"><img src="https://images.chainguard.dev/logos/mlflow.svg" alt="mlflow" width="40" height="40"/></a>
+</p>
+
+---
+
+## 💬 About Me
+
+- 👨🏼‍💻 IT project manager for 5 years, now focusing on **data science and engineering**.
+- 🏃🏼‍➡️ When I'm not in front of a computer, you might find me **trail running** or **bouldering**.
+- 👨🏼‍🍳 I cook as much on **VSCode** as I do in my **kitchen**. 
+
+---
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=qxzjy&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark&hide_progress=true" alt="qxzjy" />
   <img src="https://github-readme-stats.vercel.app/api?username=qxzjy&show_icons=true&locale=en&theme=vision-friendly-dark&rank_icon=github" alt="qxzjy" />
