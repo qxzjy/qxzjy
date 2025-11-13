@@ -1,5 +1,5 @@
 <h1 align="center">🙌 Hi ! I'm Maxime RENAULT</h1>
-<h3 align="center">Welcome to my Data journey 🌅</h3>
+<h3 align="center">Welcome to my portfolio 🖼️</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/maxime-renault-qxzjy" target="_blank">LinkedIn</a>
