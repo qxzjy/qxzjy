@@ -9,7 +9,7 @@
 
 ## 🚀 Projects
 
-### MLOps
+### Data Engineering & MLOps
 - 🏠 **[Est'Immo](https://github.com/qxzjy/housing-prices)** : A full-stack MLOps system for real estate valuation, including model training, data drift detection, prediction APIs, auto-testing, Apache Airflow orchestration, auto-retraining and Cloud Computing (EC2).
   > 🚀 **[Live App here](https://qxzjy-streamlit-housing-prices.hf.space/)**
 - 🥷 **[Automatic Fraud Detection](https://github.com/qxzjy/automatic-fraud-detection)** : A comprehensive Apache Airflow ETL pipeline for credit card transactions data and fraudulent payment prediction.
