@@ -42,6 +42,8 @@
   <a href="https://streamlit.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/github/explore/968d1eb8fb6b704c6be917f0000283face4f33ee/topics/streamlit/streamlit.png" alt="streamlit" width="40" height="40"/></a>
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1985px-Postgresql_elephant.svg.png" alt="postgresql" width="40" height="40"/></a>
   <a href="https://spark.apache.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" alt="pyspark" width="40" height="40"/></a>
+  <a href="https://www.snowflake.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/snowflake/snowflake-icon.svg" alt="snowflake" width="40" height="40"/></a>
+  <a href="https://www.getdbt.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/pulumi/pulumi-dbtcloud/main/res/dbt-bit_tm.png" alt="dbt" width="40" height="40"/></a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
   <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/apache-airflow.svg" alt="airflow" width="40" height="40"/></a>
   <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/></a>
@@ -55,10 +57,3 @@
 - 👨🏼‍💻 IT project manager for 5 years, now focusing on **data science and engineering**.
 - 🏃🏼‍➡️ When I'm not in front of a computer, you might find me **trail running** or **bouldering**.
 - 👨🏼‍🍳 I cook as much in my **kitchen** as I do in **VSCode**.
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=qxzjy&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark&hide_progress=true" alt="qxzjy" />
-  <img src="https://github-readme-stats.vercel.app/api?username=qxzjy&show_icons=true&locale=en&theme=vision-friendly-dark&rank_icon=github" alt="qxzjy" />
-</p>
