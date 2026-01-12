@@ -10,22 +10,30 @@
 ## 🚀 Projects
 
 ### Data Engineering & MLOps
-- 🏠 **[Est'Immo](https://github.com/qxzjy/housing-prices)** : A full-stack MLOps system for real estate valuation, including model training, data drift detection, prediction APIs, auto-testing, Apache Airflow orchestration, auto-retraining and Cloud Computing (EC2).
-  > 🚀 **[Live App here](https://qxzjy-streamlit-housing-prices.hf.space/)**
+- 🛍️ **[ELT E-Commerce](https://github.com/qxzjy/e-commerce-elt)** : E-commerce data ELT pipeline, OLTP to OLAP transformation.  
+  > → Airflow, AWS S3, Dbt core, Docker, PostgreSQL, Python, Snowflake
+- 🏠 **[Est'Immo](https://github.com/qxzjy/housing-prices)** : A full-stack MLOps system for real estate valuation, orchestration including model training, data drift detection, prediction APIs, auto-testing, auto-retraining and Cloud Computing (EC2).  
+  > 🚀 **[Live App here](https://qxzjy-streamlit-housing-prices.hf.space/)**  
+  → Airflow, AWS EC2, AWS S3, Docker, Evidently, FastAPI, Github, Jenkins, MLFlow, PostgreSQL, Pytest, Python, Scikit-learn, Streamlit 
 - 🥷 **[Automatic Fraud Detection](https://github.com/qxzjy/automatic-fraud-detection)** : A comprehensive Apache Airflow ETL pipeline for credit card transactions data and fraudulent payment prediction.
-  > 🚀 **[Live App here](https://qxzjy-streamlit-fraud-detection.hf.space/)**
+  > 🚀 **[Live App here](https://qxzjy-streamlit-fraud-detection.hf.space/)**  
+  → Airflow, AWS S3, Docker, FastAPI, MLFlow, PostgreSQL, Pydantic, Python, Scikit-learn, Streamlit 
 - 🏛️ **[Stripe Data Architecture](https://github.com/qxzjy/stripe-architecture)** : Design of a comprehensive data architecture integrating transactional (OLTP), analytical (OLAP), and unstructured and semi-structured (NoSQL) systems, as well as an MLOps pipeline.
 
 
 ### Machine Learning
 - 🏯 **[Anime recommendation engine](https://github.com/qxzjy/anime-recommendation-engine)** : A anime recommendation engine powered by Streamlit and using various NLP techniques and technologies (collaborative filtering, embedding, sentiment analysis, LLM).
-  > 🚀 **[Live App here](https://qxzjy-streamlit-anime-recommandation-engine.hf.space/)**
-
+  > 🚀 **[Live App here](https://qxzjy-streamlit-anime-recommandation-engine.hf.space/)**  
+  → Docker, LangChain, Pydantic, Python, Scikit-learn, Spark (ALS), Streamlit
 
 ### Data Analysis
-- 🏠 **[Tinder Speed Dating Analysis](https://github.com/qxzjy/tinder-analysis)** : Analysis of data from a speed dating experiment to understand what motivates people to take an interest in each other and meet up for a second date.
+- 🏠 **[Tinder Speed Dating Analysis](https://github.com/qxzjy/tinder-analysis)** : Analysis of data from a speed dating experiment to understand what motivates people to take an interest in each other and meet up for a second date.  
+  > → Numpy, Pandas, Plotly, Python
 - 🚗 **[Getaround Delay Analysis](https://github.com/qxzjy/getaround-analysis)** : Analysis of car rental delay data and prediction of daily rental prices
-  > 🚀 **[Live App here](https://qxzjy-get-around-streamlit.hf.space/)**
+  > 🚀 **[Live App here](https://qxzjy-get-around-streamlit.hf.space/)**  
+  → Docker, FastAPI, MLFlow, Pandas, Plotly, Pydantic, Python, Scikit-learn, Streamlit
+- 👾 **[Steam marketplace Analysis](https://github.com/qxzjy/steam-analysis)** : Analysis of Steam marketplace data to understand popularity and sales factors.
+  > → Databricks, Python, Spark
 
 ---
 
