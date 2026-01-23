@@ -11,10 +11,10 @@
 
 ### Data Engineering & MLOps
 - 🛍️ **[ELT E-Commerce](https://github.com/qxzjy/e-commerce-elt)** : E-commerce data ELT pipeline, OLTP to OLAP transformation.  
-  > → Airflow, AWS S3, Dbt core, Docker, PostgreSQL, Python, Snowflake
+  > → Airflow, AWS S3, Dbt core, Docker, PostgreSQL, Python, Snowflake, SQL
 - 🏠 **[Est'Immo](https://github.com/qxzjy/housing-prices)** : A full-stack MLOps system for real estate valuation, orchestration including model training, data drift detection, prediction APIs, auto-testing, auto-retraining and Cloud Computing (EC2).  
   > 🚀 **[Live App here](https://qxzjy-streamlit-housing-prices.hf.space/)**  
-  → Airflow, AWS EC2, AWS S3, Docker, Evidently, FastAPI, Github, Jenkins, MLFlow, PostgreSQL, Pytest, Python, Scikit-learn, Streamlit 
+  → Airflow, AWS EC2, AWS S3, Docker, Evidently, FastAPI, Github, Jenkins, MLFlow, PostgreSQL, Pytest, Python, Scikit-learn, Streamlit
 - 🥷 **[Automatic Fraud Detection](https://github.com/qxzjy/automatic-fraud-detection)** : A comprehensive Apache Airflow ETL pipeline for credit card transactions data and fraudulent payment prediction.
   > 🚀 **[Live App here](https://qxzjy-streamlit-fraud-detection.hf.space/)**  
   → Airflow, AWS S3, Docker, FastAPI, MLFlow, PostgreSQL, Pydantic, Python, Scikit-learn, Streamlit 
