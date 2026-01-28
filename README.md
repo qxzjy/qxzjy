@@ -11,7 +11,7 @@
 
 ### Data Engineering & MLOps
 - 🛍️ **[ELT E-Commerce](https://github.com/qxzjy/e-commerce-elt)** : E-commerce data ELT pipeline, OLTP to OLAP transformation.  
-  > → Airflow, AWS S3, Dbt core, Docker, PostgreSQL, Python, Snowflake, SQL
+  > → Airflow, Google Cloud Storage, Dbt core, Docker, PostgreSQL, Python, BigQuery, SQL
 - 🏠 **[Est'Immo](https://github.com/qxzjy/housing-prices)** : A full-stack MLOps system for real estate valuation, orchestration including model training, data drift detection, prediction APIs, auto-testing, auto-retraining and Cloud Computing (EC2).  
   > 🚀 **[Live App here](https://qxzjy-streamlit-housing-prices.hf.space/)**  
   → Airflow, AWS EC2, AWS S3, Docker, Evidently, FastAPI, Github, Jenkins, MLFlow, PostgreSQL, Pytest, Python, Scikit-learn, Streamlit
@@ -51,6 +51,7 @@
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1985px-Postgresql_elephant.svg.png" alt="postgresql" width="40" height="40"/></a>
   <a href="https://spark.apache.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" alt="pyspark" width="40" height="40"/></a>
   <a href="https://www.snowflake.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/snowflake/snowflake-icon.svg" alt="snowflake" width="40" height="40"/></a>
+  <a href="https://cloud.google.com/bigquery?utm_source=google&utm_medium=cpc&utm_campaign=Cloud-SS-DR-GCP-1713666-GCP-DR-EMEA-FR-fr-Google-BKWS-MIX-na&utm_content=c-Hybrid+%7C+BKWS+-+MIX+%7C+Txt+-+Data+Analytics-Data+Analytics-BigQuery-47616965283&utm_term=bigquery&gclsrc=aw.ds&gad_source=1&gad_campaignid=19980189965&gclid=Cj0KCQiAhOfLBhCCARIsAJPiopOaa6SNqyLh2hcjp_j9znXe7Ldie9d1LoWmzMV1Sg0bn8bPwGwuv18aAiyPEALw_wcB&hl=fr/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-icon.svg" alt="bigquery" width="40" height="40"/></a>
   <a href="https://www.getdbt.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/pulumi/pulumi-dbtcloud/main/res/dbt-bit_tm.png" alt="dbt" width="40" height="40"/></a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
   <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/apache-airflow.svg" alt="airflow" width="40" height="40"/></a>
